@@ -1,0 +1,11 @@
+/Kept_logs
+/__pycache__
+/beforeExercise.csv
+/libTest.py
+/log.csv
+/rollingPlot.py
+/serialDataAnalysis.m
+/test.py
+*.pyc
+__pycache__/
+
